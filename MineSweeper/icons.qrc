@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/bomb.png</file>
+        <file>icons/grass-texture-background_64049-124-2716259149.png</file>
+        <file>icons/1.png</file>
+        <file>icons/2.png</file>
+        <file>icons/3.png</file>
+        <file>icons/4.png</file>
+        <file>icons/5.png</file>
+        <file>icons/6.png</file>
+        <file>icons/7.png</file>
+        <file>icons/8.png</file>
+        <file>icons/a6685001691b30093ed052da4ee6460e-1806437242.jpg</file>
+        <file>icons/flag1.png</file>
+        <file>icons/bomb1.png</file>
+        <file>icons/bomb2.png</file>
+        <file>icons/quesion_mark.png</file>
+    </qresource>
+</RCC>
